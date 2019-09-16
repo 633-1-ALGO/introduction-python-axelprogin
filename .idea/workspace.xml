@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IntroductionPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IntroductionPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.1- Exercice - Séquence 1/sequence1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.2- Exercice - Séquence 2/sequence2.py" afterDir="false" />
-    </list>
+    <list default="true" id="5ec7147b-d0f9-4cfb-b32a-0ca2d90cdbe3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568617552694</updated>
       <workItem from="1568617556887" duration="233000" />
-      <workItem from="1568618021990" duration="700000" />
+      <workItem from="1568618021990" duration="965000" />
     </task>
     <servers />
   </component>
