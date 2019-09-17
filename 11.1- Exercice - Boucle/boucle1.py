@@ -2,3 +2,10 @@
 # Données : un tableau A de n nombre réels
 # Résultat attendu : Moyenne des nombres réels du tableau A
 A = [1, 5, 15, 25, 10, 55, 50, 35]
+
+total = 0
+
+for num in A:
+    total = total + num
+
+print(total / A.__len__())

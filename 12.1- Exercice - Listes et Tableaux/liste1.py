@@ -6,3 +6,14 @@
 # Indication :   L'alignement rectiligne n'est pas une contrainte, tant que la table est visible ligne par ligne c'est ok.
 #               Si vous êtes perfectionnistes faites vous plaisir.
 liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+print("    ", end='')
+for o in range(0, len(liste)):
+    print(liste[o], "  ", end='')
+print("")
+for o in range(0, len(liste)):
+    print(liste[o], "  ", end='')
+    for p in range(0, len(liste)):
+        produit = liste[p] * liste[o]
+        print(produit, "  ", end='')
+    print("")
