@@ -8,12 +8,12 @@
 liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 print("    ", end='')
-for o in range(0, len(liste)):
-    print(liste[o], "  ", end='')
+for i in range(0, len(liste)):
+    print(liste[i], "  ", end='')
 print("")
-for o in range(0, len(liste)):
-    print(liste[o], "  ", end='')
+for i in range(0, len(liste)):
+    print(liste[i], "  ", end='')
     for p in range(0, len(liste)):
-        produit = liste[p] * liste[o]
-        print(produit, "  ", end='')
+        multi = liste[p] * liste[i]
+        print(multi, "  ", end='')
     print("")

@@ -6,7 +6,7 @@ tab_lettres = [
      'x', 'y', 'z', ' '], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
 
 
-def freq(chaine):
+def frequence(chaine):
     for i in range(0, len(texte)):
         for j in range(0, len(tab_lettres[0])):
             if tab_lettres[0][j] == texte[i]:
@@ -14,4 +14,4 @@ def freq(chaine):
     for i in range(0, len(tab_lettres[0])):
         print("Caractère '", tab_lettres[0][i], "' : ", tab_lettres[1][i], "  ", sep='')
 
-freq(texte)
+frequence(texte)
